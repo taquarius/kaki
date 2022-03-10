@@ -1,0 +1,9 @@
+[package]
+name = "kaki"
+version = "0.1.0"
+authors = ["taquarius"]
+description = "This crate is available for ownership transfer"
+license = "MIT"
+repository = "https://github.com/taquarius/kaki"
+homepage = "https://github.com/taquarius/kaki"
+edition = "2021"
